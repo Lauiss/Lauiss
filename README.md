@@ -2,10 +2,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lauiss&show_icons=true&theme=aura&locale=en&count_private=true" alt="Lauiss" /></p>
 
-### Who is Lauiss ?
+### Who is Florian ?
 * A french computer science student
 * Born in 2002
-* Loves Coffee alot
+* Loves Coffee
 
 ### Projects
 [WORK IN PROGRESS]
